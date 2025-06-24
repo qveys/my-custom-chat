@@ -3,6 +3,7 @@
 Cette application contient un exemple de landing page en React Native qui présente les fonctionnalités d'une application de chat entre humains et robots. Le fichier **App.js** démontre une interface simple listant les avantages du service et un bouton d'inscription.
 
 Pour utiliser ce composant, intégrez-le dans un projet React Native existant ou initialisez un nouveau projet avec `npx react-native init` ou `npx create-expo-app` puis remplacez le fichier `App.js` généré par celui présent dans ce répertoire.
+Un fichier `index.js` est également fourni et se charge d'enregistrer l'application via `registerRootComponent`. Vérifiez que la propriété `main` du `package.json` pointe vers ce fichier.
 
 ## Fonctionnalités affichées
 - Chat humain-robot
