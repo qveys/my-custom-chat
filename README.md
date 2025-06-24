@@ -6,11 +6,11 @@ Pour utiliser ce composant, intégrez-le dans un projet React Native existant ou
 Un fichier `index.js` est également fourni et se charge d'enregistrer l'application via `registerRootComponent`. Vérifiez que la propriété `main` du `package.json` pointe vers ce fichier.
 
 ## Fonctionnalités affichées
-- Chat humain-robot
-- Réponses IA avancées
-- Messagerie sécurisée
-- Support multilingue
-- Personnalisation du robot
+- 🗣️ Chat humain-robot
+- 🤖 Réponses IA avancées
+- 🔒 Messagerie sécurisée
+- 🌐 Support multilingue
+- 🎨 Personnalisation du robot
 
 ## Démarrage rapide
 
