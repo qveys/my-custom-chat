@@ -3,23 +3,23 @@ import { StyleSheet, Text, View, ScrollView, TouchableOpacity } from 'react-nati
 
 const FEATURES = [
   {
-    title: 'Chat humain-robot',
+    title: '🗣️ Chat humain-robot',
     description: 'Discutez en temps réel avec des utilisateurs humains et des robots intelligents.'
   },
   {
-    title: 'Réponses IA avancées',
+    title: '🤖 Réponses IA avancées',
     description: "Profitez d'une intelligence artificielle capable de générer des réponses pertinentes et naturelles."
   },
   {
-    title: 'Messagerie sécurisée',
+    title: '🔒 Messagerie sécurisée',
     description: 'Vos conversations sont chiffrées de bout en bout pour une confidentialité maximale.'
   },
   {
-    title: 'Support multilingue',
+    title: '🌐 Support multilingue',
     description: 'Communiquez dans plusieurs langues grâce à la traduction intégrée.'
   },
   {
-    title: 'Personnalisation du robot',
+    title: '🎨 Personnalisation du robot',
     description: 'Créez vos propres personnalités de robots pour des discussions sur mesure.'
   }
 ];
